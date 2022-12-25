@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Ali</h1>
-<h3 align="center">A backend developer from Pakistan ☪️</h3>
+<h3 align="center">A Backend Developer from Pakistan ☪️</h3>
 <img align="right" alt="image" src="https://www.linkpicture.com/q/giphy_1.gif">
 
 - 🔥 Currently, I am working on Django Rest Framwork, ReactJs and Docker.
