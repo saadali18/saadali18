@@ -2,17 +2,11 @@
 <h3 align="center">A backend developer from Pakistan ☪️</h3>
 <img align="right" alt="image" src="https://www.linkpicture.com/q/giphy_1.gif">
 
-<p align="left"> <a href="https://twitter.com/saadalish90" target="blank"><img src="https://img.shields.io/twitter/follow/saadalish90?logo=twitter&style=for-the-badge" alt="saadalish90" /></a> </p>
-
 - 🔥 Currently, I am working on Django Rest Framwork, ReactJs and Docker.
 
 - 📝 I regularly write articles on medium.com [https://medium.com/@saadali18](https://medium.com/@saadali18)
 
 - ⚡ Fun fact: **I love playing with LeetCode (current streak 40 🔥)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
