@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋, I'm Saad Ali</h1>
-<h3 align="center">A Backend Developer from Pakistan ☪️</h3>
+## Hi there, I'm [Saad Ali](https://www.linkedin.com/in/saadali18/). 👋 
+
 <img align="right" alt="image" src="https://www.linkpicture.com/q/giphy_1.gif">
 
-- 🔥 Currently, I am working on Django Rest Framwork, ReactJs and Docker.
+- 🔥 I am a Software Engineer, currently working on Django Rest Framwork, ReactJs and Docker.
 
 - 📝 I regularly write articles on medium.com [https://medium.com/@saadali18](https://medium.com/@saadali18)
 
 - ⚡ Fun fact: **I love playing with LeetCode (current streak 40 🔥)**
+
+### [👉 My Blog Posts](https://medium.com/@saadali18)
+- [Learn Docker with Easy Implementation in Python/Django Application 🚀](https://saadali18.medium.com/learn-docker-with-easy-implementation-in-python-django-application-82df50f351a9)
+- [Integrate Email Service in your Django Application using SendGrid Email API 🔥 🚀](https://saadali18.medium.com/integrate-email-service-in-your-django-application-using-sendgrid-email-api-cbc6bbc5262a)
+- [How to make a finite-state machine in your Django application 🚀](https://saadali18.medium.com/how-to-make-a-finite-state-machine-in-your-django-application-ebd4037d6779)
+- [Setup your Django project with Celery, Celery beat, and Redis](https://saadali18.medium.com/setup-your-django-project-with-celery-celery-beat-and-redis-644dc8a2ac4b)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
