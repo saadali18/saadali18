@@ -1,7 +1,5 @@
 ## Hi there, I'm [Saad Ali](https://www.linkedin.com/in/saadali18/). 👋 
 
-<img align="right" alt="image" src="https://www.linkpicture.com/q/giphy_1.gif">
-
 - 🔥 I am a Software Engineer, currently working on Django Rest Framwork, ReactJs and Docker.
 
 - 📝 I regularly write articles on medium.com [https://medium.com/@saadali18](https://medium.com/@saadali18)
