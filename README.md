@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on medium.com [https://medium.com/@saadali18](https://medium.com/@saadali18)
 
-- ⚡ Fun fact: **I love playing with LeetCode (current streak 40 🔥)**
+- ⚡ Fun fact: **I love playing with LeetCode [https://leetcode.com/u/saadproxy/](https://leetcode.com/u/saadproxy/)**
 
 ### [👉 My Blog Posts](https://medium.com/@saadali18)
 - [Learn Docker with Easy Implementation in Python/Django Application 🚀](https://saadali18.medium.com/learn-docker-with-easy-implementation-in-python-django-application-82df50f351a9)
